@@ -3,9 +3,9 @@ download the books pdf in http://reserves.lib.tsinghua.edu.cn/
 
 爬虫
 
+---
 
-
-#### 使用方法
+### 使用方法
 
 + 已编译成`.exe`可执行文件，在`./dist`目录下，可直接运行
 + 输入搜索关键词，点击搜索
@@ -13,6 +13,6 @@ download the books pdf in http://reserves.lib.tsinghua.edu.cn/
 
 
 
-#### 软件预览
+### 软件预览
 
 ![image-20220517112218831](README.assets/image-20220517112218831.png)
